@@ -4,6 +4,7 @@
 > We had a lot of video files and our use case didn't require long video files so this script was
 > written to solve that. We just feed in the video files and it trims it down to the size we want with all the 
 > audio files. A metadata.csv file is also created which contains all the timestamps for each gif produced. 
+> So if you are in need of this kind of use case or just wanna create gifs, this is a faily good tool to use.
 
 ## Setting things up
 - Create two folders, Videos and Output.
